@@ -1,0 +1,8 @@
+Author: Hanson Addo
+This program was written in C programming
+
+To compile program: type "make"
+NB: Ignore warnings.
+This will create an exe called mython
+To run the exe : ./mython < file_name 
+example; ./mython < Tests/bad0.my
