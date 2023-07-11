@@ -1,4 +1,4 @@
-* ** Author: Hanson Addo **
+* **Author: Hanson Addo**
 ### **Typechecking Mython Programs**
 
 The Mython language was very loosely inspired by the langauge Python. 
